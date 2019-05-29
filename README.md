@@ -24,6 +24,7 @@ So how do you create a new highscore? Well the app keeps track of your scores! E
 
 ### Answering the first question
 The app will tell if the user had answered the question incorrect or not. Depending on that the score will be updated if the answer was correct.
+
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/47352487/58593409-15c73880-826b-11e9-8fb5-2f5c4e73232d.png">
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/47352487/58593446-2b3c6280-826b-11e9-92c6-cb7dafc696f7.png">
